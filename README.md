@@ -2,9 +2,11 @@
 
 一隻以 Jellycat Peanut Penguin 鑰匙圈版為原型的 Codex 桌面寵物：炭灰、奶油白與淡蜜桃配色，搭配少量柔和筆觸，保留毛絨玩偶的呆萌感。
 
-**[下載寵物素材包 ZIP](downloads/peanut-penguin-codex-pet.zip)** · [透明背景插畫](assets/peanut-penguin-illustration.png)
+歡迎下載作為自己的 Codex 桌面寵物使用。
 
-![Peanut Penguin 不動動畫](assets/idle.gif)
+**[直接下載寵物素材包 ZIP](https://github.com/pin0501/peanut-penguin-codex-pet/releases/latest/download/peanut-penguin-codex-pet.zip)** · [透明背景插畫](peanut-penguin-illustration.png)
+
+![Peanut Penguin 不動動畫](idle.gif)
 
 ## 安裝
 
@@ -37,28 +39,27 @@ pets/
 
 左右跑已以原始不動影格為基準修正頭身比、眼睛、短嘴及腳掌的比例。下圖依序為左跑／不動／右跑：
 
-![左跑、不動與右跑比較](assets/running-preview.gif)
+![左跑、不動與右跑比較](running-preview.gif)
 
-![Peanut Penguin 揮手動畫](assets/wave.gif)
+![Peanut Penguin 揮手動畫](wave.gif)
 
 ## 素材
 
 | 路徑 | 內容 |
 | --- | --- |
-| `peanut-penguin-illustrated/` | 可直接安裝的寵物資料夾 |
-| `downloads/peanut-penguin-codex-pet.zip` | 打包好的下載檔 |
-| `assets/peanut-penguin-illustration.png` | 透明背景主圖 |
-| `assets/*.gif` | 動畫預覽 |
+| `pet.json`、`spritesheet.webp` | 寵物原始檔案（ZIP 內已整理為可安裝的資料夾） |
+| `peanut-penguin-codex-pet.zip` | 打包好的下載檔 |
+| `peanut-penguin-illustration.png` | 透明背景主圖 |
+| `*.gif` | 動畫預覽 |
 
 寵物圖集採用 v2 格式：8 欄 × 11 列、每格 192 × 208 像素，整張 1536 × 2288 像素。
 
 ## English installation
 
-Download the [ZIP](downloads/peanut-penguin-codex-pet.zip), extract it, and copy the `peanut-penguin-illustrated` folder into `%USERPROFILE%\.codex\pets\` on Windows or `~/.codex/pets/` on macOS/Linux. If you use a custom `CODEX_HOME`, use its `pets` subfolder instead.
+Download the [ZIP](https://github.com/pin0501/peanut-penguin-codex-pet/releases/latest/download/peanut-penguin-codex-pet.zip), extract it, and copy the `peanut-penguin-illustrated` folder into `%USERPROFILE%\.codex\pets\` on Windows or `~/.codex/pets/` on macOS/Linux. If you use a custom `CODEX_HOME`, use its `pets` subfolder instead.
 
 In Codex, open **Settings → Pets**, refresh the list, select **Peanut Penguin**, and wake the pet. The v2 sprite sheet includes nine animations and sixteen look directions.
 
 ## 原型與製作
 
 這是使用 AI 協助繪製的非官方 fan art，原型為 [Jellycat Peanut Penguin Bag Charm](https://jellycat.com/peanut-penguin-bag-charm/)。本專案非 Jellycat 或 OpenAI 官方作品，亦不代表兩者背書。
-
