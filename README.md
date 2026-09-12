@@ -4,7 +4,7 @@
 
 歡迎下載作為自己的 Codex 桌面寵物使用。
 
-**[直接下載寵物素材包 ZIP](https://github.com/pin0501/peanut-penguin-codex-pet/releases/latest/download/peanut-penguin-codex-pet.zip)** · [透明背景插畫](peanut-penguin-illustration.png)
+**[直接下載寵物素材包 ZIP](https://raw.githubusercontent.com/pin0501/peanut-penguin-codex-pet/main/peanut-penguin-codex-pet.zip)** · [透明背景插畫](peanut-penguin-illustration.png)
 
 ![Peanut Penguin 不動動畫](idle.gif)
 
@@ -56,10 +56,11 @@ pets/
 
 ## English installation
 
-Download the [ZIP](https://github.com/pin0501/peanut-penguin-codex-pet/releases/latest/download/peanut-penguin-codex-pet.zip), extract it, and copy the `peanut-penguin-illustrated` folder into `%USERPROFILE%\.codex\pets\` on Windows or `~/.codex/pets/` on macOS/Linux. If you use a custom `CODEX_HOME`, use its `pets` subfolder instead.
+Download the [ZIP](https://raw.githubusercontent.com/pin0501/peanut-penguin-codex-pet/main/peanut-penguin-codex-pet.zip), extract it, and copy the `peanut-penguin-illustrated` folder into `%USERPROFILE%\.codex\pets\` on Windows or `~/.codex/pets/` on macOS/Linux. If you use a custom `CODEX_HOME`, use its `pets` subfolder instead.
 
 In Codex, open **Settings → Pets**, refresh the list, select **Peanut Penguin**, and wake the pet. The v2 sprite sheet includes nine animations and sixteen look directions.
 
 ## 原型與製作
 
 這是使用 AI 協助繪製的非官方 fan art，原型為 [Jellycat Peanut Penguin Bag Charm](https://jellycat.com/peanut-penguin-bag-charm/)。本專案非 Jellycat 或 OpenAI 官方作品，亦不代表兩者背書。
+
